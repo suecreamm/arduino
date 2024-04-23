@@ -1,4 +1,4 @@
-# Arduino projects
+# Arduino Codes
 
 ### 000: LEDgradation.ino
 - Adafruit NeoPixel 8x8, Switch, Arduino Nano
